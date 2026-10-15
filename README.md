@@ -34,4 +34,4 @@ Seu propósito é auxiliar na organização das informações e na triagem de ev
 ### Projeto em desenvolvimento.
 
 Você pode conferir a demonstração em funcionamento no YouTube:
-👉 **[Assistir ao Vídeo de Demonstração do Hércules NDR](https://youtu.be/Aua-mBLTaoM)**
+👉 **[Assistir ao Vídeo de Demonstração do Hércules NDR] >> https://www.youtube.com/watch?v=Aua-mBLTaoM <
