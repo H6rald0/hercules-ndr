@@ -32,3 +32,6 @@ O projeto foi concebido para utilizar IA local, sem depender de uma API de IA em
 O HÉRCULES é um parceiro do profissional, não um substituto.
 Seu propósito é auxiliar na organização das informações e na triagem de eventos, mantendo a interpretação e as decisões de segurança sob responsabilidade humana.
 ### Projeto em desenvolvimento.
+
+Você pode conferir a demonstração em funcionamento no YouTube:
+👉 **[Assistir ao Vídeo de Demonstração do Hércules NDR](https://youtu.be/Aua-mBLTaoM)**
