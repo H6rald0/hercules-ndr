@@ -68,4 +68,10 @@ Mais testes em redes e equipamentos diferentes.
 🤝 Filosofia
 O HÉRCULES é um parceiro do profissional, não um substituto. Seu propósito é ajudar a organizar as informações e a triar eventos, mantendo a interpretação e as decisões de segurança sob responsabilidade humana. Não substitui analisadores de pacotes, firewalls, antivírus, EDR ou profissionais de segurança.
 
+## 📬 Código-fonte e contato
+
+O código-fonte não está publicado neste repositório. Está disponível para avaliação mediante contato.
+
+Para falar comigo, abra uma **Issue** neste repositório ou deixe um comentário no vídeo do YouTube. Não inclua dados pessoais ou sensíveis na mensagem: respondo e combinamos um canal adequado.
+
 🚧 Projeto em desenvolvimento.
