@@ -58,6 +58,7 @@ Detecção de varredura básica. Baseada em uma janela de tempo curta; varredura
 Alcance limitado à interface. Ele observa o que chega à interface em que está rodando. Em uma rede com switch comum, o tráfego entre outros equipamentos pode não ser visível.
 
 A IA é uma segunda opinião. Modelos pequenos podem errar ou demorar. A decisão é sempre humana.
+
 🗺️ Próximos passos
 Alertas mais claros, com sugestão do que conferir primeiro.
 Redução de falsos positivos.
