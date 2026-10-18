@@ -1,7 +1,6 @@
 ⚠️ Uso somente em redes e equipamentos para os quais você tenha autorização. O HÉRCULES observa o tráfego da interface em que está rodando.
 
 🛡️ HÉRCULES NDR 
-
 Cibersegurança · Monitoramento e triagem de tráfego de rede com apoio de IA local
 
 Este repositório reúne a apresentação do HÉRCULES NDR, um projeto em Python que observa o tráfego de rede e ajuda o profissional de TI e de cibersegurança a separar o que é rotina do que merece uma olhada. Ele combina triagem determinística com uma IA executada localmente, que serve como segunda opinião. A análise crítica e as decisões de segurança continuam com a pessoa.
@@ -21,6 +20,7 @@ Aplicar critérios de triagem para organizar os eventos.
 Usar IA local como segunda opinião quando necessário.
 Apresentar informações que possam merecer investigação.
 Manter o profissional humano no controle das decisões.
+
 🧠 Como funciona
 Captura: o TShark captura os metadados do tráfego (origem, destino, porta, protocolo e tamanho).
 Triagem: regras em Python separam o tráfego de rotina e agrupam eventos repetidos, para reduzir a sobrecarga de informação.
